@@ -38,6 +38,11 @@
 ![Detail OS](https://github.com/user-attachments/assets/60fe8658-1f54-4e4a-8247-19f8a84c7ef4)
 
 
+- Menu 5 Waktu Install Pertama OS
+  
+![install](https://github.com/user-attachments/assets/7ec3203a-034d-4b54-ac2b-698fd2d78370)
+
+
 - Menu 6 Informasi User
 
 ![infoUser](https://github.com/user-attachments/assets/c0c2f6b2-af30-43ff-b0b3-fb148705c5de)
